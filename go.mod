@@ -5,7 +5,7 @@ go 1.21.5
 require (
 	github.com/99designs/gqlgen v0.17.42
 	github.com/parquet-go/parquet-go v0.20.0
-	github.com/vektah/gqlparser/v2 v2.5.10
+	github.com/vektah/gqlparser/v2 v2.5.14
 )
 
 require (
