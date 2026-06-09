@@ -1,6 +1,6 @@
 module github.com/kennycyb/go-sandbox
 
-go 1.21.5
+go 1.26.4
 
 require (
 	github.com/99designs/gqlgen v0.17.42
